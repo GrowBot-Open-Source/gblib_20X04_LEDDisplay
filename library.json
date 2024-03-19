@@ -1,8 +1,8 @@
 {
-"name": "gb_SENSORNAME",
+"name": "gb_20X04_LEDDisplay",
 "frameworks": "Arduino",
 "keywords": "keywords",
-"description": "Use the sensor XXXXX in the GrowBot system.",
+"description": "Use the sensor gb_20X04_LEDDisplay in the GrowBot system.",
 "authors":
 [
     {
